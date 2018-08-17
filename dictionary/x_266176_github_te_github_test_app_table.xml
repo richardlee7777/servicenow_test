@@ -2,5 +2,6 @@
     <element label="GitHub Test App Table" max_length="40" name="x_266176_github_te_github_test_app_table" type="collection">
         <element label="BizFlag" max_length="1" name="bizflag" type="boolean"/>
         <element label="Label" max_length="20" name="labellabel" type="string"/>
+        <element label="Qty" max_length="15" name="qty" type="decimal"/>
     </element>
 </database>

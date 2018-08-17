@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="qty" label="Qty" language="en" table="x_266176_github_te_github_test_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>qty</element>
+            <help/>
+            <hint/>
+            <label>Qty</label>
+            <language>en</language>
+            <name>x_266176_github_te_github_test_app_table</name>
+            <plural>Qties</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-17 06:15:14</sys_created_on>
+            <sys_id>ce99e358db402300c5d9a455ca961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Qty</sys_name>
+            <sys_package display_value="GitHub Test App" source="x_266176_github_te">03ef0394db002300c5d9a455ca9619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GitHub Test App">03ef0394db002300c5d9a455ca9619fb</sys_scope>
+            <sys_update_name>sys_documentation_x_266176_github_te_github_test_app_table_qty_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-17 06:15:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
